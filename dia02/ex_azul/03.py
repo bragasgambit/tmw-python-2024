@@ -9,10 +9,10 @@ recipiente = input("Bem vindo à sorveteria do Braga!\nPor favor, escolha o reci
 sabor = input("Selecione o sabor desejado:\n"
               "morango\ncreme\nchocolate\n")
 cobertura = input("Deseja alguma cobertura?\n"
-                  "caramelo\nmorango\nchocolate\nsem cobertura")
+                  "caramelo\nmorango\nchocolate\nsem cobertura\n")
 
 if recipiente == "casquinha" and cobertura == "caramelo" or "morango" or "chocolate":
-    print("R$", float(round(1 + 1.5,2)))
+    print("R$", (1 + 1.5))
 elif recipiente == "casquinha" and cobertura == "sem cobertura":
     print("R$ 1,00")
 
