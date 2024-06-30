@@ -1,0 +1,12 @@
+Editar multiplas linhas simultaneamente em .py
+
+1 - Selecionar todas as linhas desejadas
+2 - Shift + Alt + i                          # cursor em todas as linhas selecionadas no final
+3 - Shift + Home                             # cursor no início de todas as linhas selecionadas
+4 - Home/End                                 # cursor no início/final de todas as linhas
+5 - Adiciona o que quiser
+
+
+Ctrl + Shift + p          digitar> upper
+Ctrl + h                  substituir uma palavra por outra
+Ctrl + d                  seleciona a próxima aparição da mesma palavra selecionada
