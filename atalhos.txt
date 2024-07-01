@@ -10,3 +10,8 @@ Editar multiplas linhas simultaneamente em .py
 Ctrl + Shift + p          digitar> upper
 Ctrl + h                  substituir uma palavra por outra
 Ctrl + d                  seleciona a próxima aparição da mesma palavra selecionada
+Ctrl + / (barra)          seleciona e comenta tudo
+
+control characters - in py -> ANSI escape codes
+https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797 see comments for a great understand of RGB
+

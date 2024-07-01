@@ -1,4 +1,5 @@
-# %%
+# Operador lógico - if/else
+
 idade = int(input("Digite sua idade: "))
 
 if idade >= 18:     # condição lógica (True/False - boolean)
