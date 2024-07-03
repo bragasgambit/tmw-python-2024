@@ -1,4 +1,5 @@
 
+# listas continued
 # lista vazia -> minha_lista = [] 
 
 minha_lista = ["Yuri", "Braga", 25, 1.70]
