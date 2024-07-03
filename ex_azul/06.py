@@ -9,3 +9,7 @@ if item in lista:
     print("Dirija-se ao caixa")
 else:
     print("Não tem", item)
+
+
+lista = ["laranja", "cerveja", "miojo", "carvão", "picanha"]
+# é muito mais seguro usar uma lista
