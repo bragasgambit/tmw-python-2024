@@ -22,3 +22,6 @@ print(nome)
 print("Idade do Thales é:", dados["amigos"][0]["idade"])
 
 # "dict's" também são conhecidos como "maps" em outras langs
+
+
+# minuto 1:40:00
