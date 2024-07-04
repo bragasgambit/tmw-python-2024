@@ -20,3 +20,6 @@ for i in range(3):
         continue
 
 # 03.07.2024
+
+# spaghetti code FFFF
+# melhorar o código criando uma função que valide a entrada do user para não precisar usar While True e ter um spaghetti

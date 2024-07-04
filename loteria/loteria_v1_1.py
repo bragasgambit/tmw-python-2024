@@ -1,4 +1,3 @@
-
 num_sorte = 7
 
 for i in range(3):

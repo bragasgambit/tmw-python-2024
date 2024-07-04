@@ -16,7 +16,8 @@ def fodase():
 
 fodase() # invocação da função
 
-def soma(a, b):
+def soma(a, b=0): # valor obrigatório deve ser definido antes dos opcionais! poderia ser soma(a=0,b=0) - todos os argumentos opcionais
     return a + b
 
-soma(10, 20)
+soma(10, 20) # funciona: soma(a=10, b=20), soma(b=20, a=10) e soma(10, b=20) e NÃO funciona: soma(a=10, 20)
+soma(10)
