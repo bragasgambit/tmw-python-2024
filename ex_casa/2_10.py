@@ -1,0 +1,3 @@
+# Faça um programa que receba um número. Este número corresponde a uma posição na sequência de Fibonacci: 1, 1, 2, 3, 5,...
+# Exiba o número da sequência cuja posição foi informada:
+# A posição x corresponde ao número y
