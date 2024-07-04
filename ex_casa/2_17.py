@@ -1,0 +1,1 @@
+# Escreva um programa que solicite ao usuário uma palavra e verifique se a palavra é um palíndromo (ou seja, é a mesma palavra quando lida de trás para frente).

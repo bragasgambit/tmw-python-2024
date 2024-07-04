@@ -1,10 +1,9 @@
-num = int((input("Digite um número: ")))
+from sympy import isprime
 
+n = int(input("Type a number: "))
 
-if range(num) % num == 0:
-    print("O número", num, "é primo")
+if isprime(n) == True:
+    print(n, "is prime")
 
 else:
-    print("O número", num, "não é primo")
-
-# ??
+    print(n, "is not prime")
