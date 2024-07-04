@@ -15,3 +15,8 @@ Ctrl + / (barra)          seleciona e comenta tudo
 control characters - in py -> ANSI escape codes
 https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797 see comments for a great understand of RGB
 
+Para ter certeza de qual objeto é basta usar type()
+
+lista - índice            - list  = [a,b,c,...,n]
+dict  - chave             - dict  = {a:b,...,m:n}
+tupla - índice (imutável) - tuple = (a,b,c,...,n)

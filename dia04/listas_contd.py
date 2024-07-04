@@ -59,3 +59,4 @@ print("Aqui está seu penúltimo nome:", dados[0][-2])
 print("O primeiro caractere do primeiro item da lista dentro da lista é:",dados[0][0][0])
 # [Primeiro elemento da lista dados é uma lista][Acessar o primeiro item da lista dentro da lista][O primeiro caractere do item]
 
+dados.sort() # coloca a lista em ordem alfabética - checar a sintaxe de .sort()

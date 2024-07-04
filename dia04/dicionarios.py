@@ -22,3 +22,10 @@ print(nome)
 print("Idade do Thales é:", dados["amigos"][0]["idade"])
 
 # "dict's" também são conhecidos como "maps" em outras langs
+
+print("Chaves:",dados.keys())     # .keys() retorna as chaves do dict
+print("Valores:",list(dados.values()))   # .values() retorna os valores do dict - list() retorna os dados convertidos em uma lista
+
+print("Chave e Valor:",dados.items())
+
+# API é uma interface de comunicação entre sistemas, maps/dicts são muito utilizados para isso
