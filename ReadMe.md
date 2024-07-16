@@ -25,3 +25,11 @@ lists contd, dicts, tuples
 ## Day 5
 
 libraries, functs, reading files, api
+
+### Bonus - working with python 2024 and so on
+
+pydantic  (data validation library)
+ruff      (linter and code formatter)
+uv        (package manager in Rust, pip replacement)
+docker    (container runner)
+
