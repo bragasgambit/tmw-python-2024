@@ -18,7 +18,7 @@ def valid_input():
 
         num = check_input()
 
-        if type(num) != int:
+        if type(num) is not int:
             print(num)
             continue
 
