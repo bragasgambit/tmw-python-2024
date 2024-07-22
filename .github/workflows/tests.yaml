@@ -1,9 +1,10 @@
 name: Auto PR
 
-on: pull_request_target
+on: pull_request
 
 jobs:
     build:
+        name: Auto Pull Request
         runs-on: ubuntu-latest
         permissions:
             pull-requests: write
